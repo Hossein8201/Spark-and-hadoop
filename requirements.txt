@@ -1,0 +1,7 @@
+# requiremetns for phase 2
+pyspark==3.5.1
+pandas
+numpy
+jupyter
+pyarrow
+ipykernel
